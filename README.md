@@ -1,4 +1,4 @@
-# Kittipong
+# TopZ
 
 Computer Science student at KMUTNB.
 
